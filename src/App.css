@@ -11,3 +11,8 @@ body {
   max-width: 1280px;
   margin:0 auto;
 }
+.main_container{
+  display: flex;
+  height: calc(100%-72px);
+  flex-direction: column;
+}
